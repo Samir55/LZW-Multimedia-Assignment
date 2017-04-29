@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Decoder.cpp
+Decoder.h
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Decoder.h
+
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Decoder.h
+Utils.h
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Utils.h
+
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Encoder.cpp
+Encoder.h
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Encoder.h
+
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Encoder.h
+Utils.h
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Utils.h
+
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Utils.h
+iostream
+-
+string
+-
+fstream
+-
+map
+-
+vector
+-
+cstring
+-
+algorithm
+-
+
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/main.cpp
+Decoder.h
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Decoder.h
+Encoder.h
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/Encoder.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Lab_2_M.dir/Decoder.cpp.o CMakeFiles/Lab_2_M.dir/Encoder.cpp.o CMakeFiles/Lab_2_M.dir/main.cpp.o  -o Lab_2_M 

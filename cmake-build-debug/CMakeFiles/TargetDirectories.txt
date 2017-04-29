@@ -1,0 +1,3 @@
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmedsamir/CLionProjects/Lab 2 M (2)/cmake-build-debug/CMakeFiles/Lab_2_M.dir
